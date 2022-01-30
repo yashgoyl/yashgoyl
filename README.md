@@ -31,8 +31,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Devilyash&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&cache_seconds=1800" alt="YashG's GitHub Stats" />
 </a>
 
-<a href="https://github.com/Devilyash/Devilyash">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devilyash&layout=compact&hide=matlab,c++,html,roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" />
+<a href="https://github.com/yashgoyl/Devilyash">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyl&layout=compact&hide=matlab,c++,html,roff&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&show_icons=true" />
 </a>
 
 <!-- <a href="https://github.com/Devilyash/Disease-Prediction-System">
